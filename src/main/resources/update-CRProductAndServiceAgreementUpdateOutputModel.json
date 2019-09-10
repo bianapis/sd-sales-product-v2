@@ -1,0 +1,28 @@
+{
+  "productAndServiceAgreementInstanceRecord" : {
+    "productInstanceReference" : "754500",
+    "taxReference" : "711914",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "underlyingProductInstanceReference" : "751923",
+    "customerReference" : "753026",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "bankBranchLocationReference" : "761489"
+  },
+  "updateResponseRecord" : {},
+  "productAndServiceAgreementUpdateActionTaskRecord" : {},
+  "productAndServiceAgreementUpdateActionTaskReference" : "PASAUATR752252"
+}

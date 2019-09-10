@@ -1,0 +1,8 @@
+{
+  "operationalTermGrantActionTaskRecord" : {},
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "operationalTermGrantActionTaskReference" : "OTGATR701062",
+  "grantRequestRecordReference" : "GRRR711935"
+}

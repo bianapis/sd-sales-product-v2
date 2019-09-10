@@ -1,0 +1,38 @@
+{
+  "productAndServiceAgreementInstanceRecord" : {
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "underlyingProductInstanceReference" : "743837",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "operationalTermInstanceStatus" : "operationalTermInstanceStatus",
+  "operationalTermInitiateActionReference" : "OTIAR730133",
+  "operationalTermInitiateActionRecord" : {},
+  "operationalTermInstanceReference" : "OTIR745974",
+  "operationalTermInstanceRecord" : {
+    "operationalTermDescription" : "operationalTermDescription",
+    "operationalTermTransactionRecord" : {
+      "paymentInitiationTransactionInstanceReference" : "718267",
+      "operationalTermTransactionDescription" : "operationalTermTransactionDescription",
+      "operationalTermAugmentedCashFlows" : "operationalTermAugmentedCashFlows",
+      "operationalTermTransactionType" : "operationalTermTransactionType"
+    },
+    "operationalTermType" : "operationalTermType",
+    "operationalTermParameterType" : {
+      "operationalTermParameterSetting" : "operationalTermParameterSetting"
+    }
+  }
+}

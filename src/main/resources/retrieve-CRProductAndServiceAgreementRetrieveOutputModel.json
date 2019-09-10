@@ -1,0 +1,38 @@
+{
+  "productAndServiceAgreementRetrieveActionTaskReference" : "PASARATR754446",
+  "productAndServiceAgreementInstanceRecord" : {
+    "productInstanceReference" : "772030",
+    "taxReference" : "767936",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "underlyingProductInstanceReference" : "762449",
+    "customerReference" : "752502",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "bankBranchLocationReference" : "797947"
+  },
+  "productAndServiceAgreementRetrieveActionResponse" : "productAndServiceAgreementRetrieveActionResponse",
+  "productAndServiceAgreementRetrieveActionTaskRecord" : {},
+  "productAndServiceAgreementInstanceReportRecord" : {
+    "productAndServiceAgreementInstanceReport" : {},
+    "productAndServiceAgreementInstanceReportType" : "productAndServiceAgreementInstanceReportType",
+    "productAndServiceAgreementInstanceReportData" : "productAndServiceAgreementInstanceReportData"
+  },
+  "productAndServiceAgreementInstanceAnalysis" : {
+    "productAndServiceAgreementInstanceAnalysisReportType" : "productAndServiceAgreementInstanceAnalysisReportType",
+    "productAndServiceAgreementInstanceAnalysisReport" : {},
+    "productAndServiceAgreementInstanceAnalysisData" : "productAndServiceAgreementInstanceAnalysisData"
+  }
+}

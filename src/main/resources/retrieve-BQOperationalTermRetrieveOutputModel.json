@@ -1,0 +1,53 @@
+{
+  "productAndServiceAgreementInstanceRecord" : {
+    "productInstanceReference" : "709762",
+    "taxReference" : "713168",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "underlyingProductInstanceReference" : "773326",
+    "customerReference" : "751818",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "bankBranchLocationReference" : "740615"
+  },
+  "operationalTermRetrieveActionResponse" : "operationalTermRetrieveActionResponse",
+  "operationalTermInstanceReport" : {
+    "operationalTermInstanceReportType" : "operationalTermInstanceReportType",
+    "operationalTermInstanceReport" : {},
+    "operationalTermInstanceReportParameters" : "operationalTermInstanceReportParameters",
+    "operationalTermInstanceReportRecord" : {}
+  },
+  "operationalTermInstanceAnalysis" : {
+    "operationalTermInstanceAnalysisRecord" : {},
+    "operationalTermInstanceAnalysisReportType" : "operationalTermInstanceAnalysisReportType",
+    "operationalTermInstanceAnalysisParameters" : "operationalTermInstanceAnalysisParameters",
+    "operationalTermInstanceAnalysisReport" : {}
+  },
+  "operationalTermRetrieveActionTaskRecord" : {},
+  "operationalTermRetrieveActionTaskReference" : "OTRATR722018",
+  "operationalTermInstanceRecord" : {
+    "operationalTermDescription" : "operationalTermDescription",
+    "operationalTermTransactionRecord" : {
+      "paymentInitiationTransactionInstanceReference" : "781747",
+      "operationalTermTransactionDescription" : "operationalTermTransactionDescription",
+      "operationalTermAugmentedCashFlows" : "operationalTermAugmentedCashFlows",
+      "operationalTermTransactionType" : "operationalTermTransactionType"
+    },
+    "operationalTermType" : "operationalTermType",
+    "operationalTermParameterType" : {
+      "operationalTermParameterSetting" : "operationalTermParameterSetting"
+    }
+  }
+}

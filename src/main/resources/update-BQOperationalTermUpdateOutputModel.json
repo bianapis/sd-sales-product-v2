@@ -1,0 +1,18 @@
+{
+  "operationalTermUpdateActionTaskReference" : "OTUATR721081",
+  "operationalTermUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "operationalTermInstanceRecord" : {
+    "operationalTermDescription" : "operationalTermDescription",
+    "operationalTermTransactionRecord" : {
+      "paymentInitiationTransactionInstanceReference" : "772689",
+      "operationalTermTransactionDescription" : "operationalTermTransactionDescription",
+      "operationalTermAugmentedCashFlows" : "operationalTermAugmentedCashFlows",
+      "operationalTermTransactionType" : "operationalTermTransactionType"
+    },
+    "operationalTermType" : "operationalTermType",
+    "operationalTermParameterType" : {
+      "operationalTermParameterSetting" : "operationalTermParameterSetting"
+    }
+  }
+}
